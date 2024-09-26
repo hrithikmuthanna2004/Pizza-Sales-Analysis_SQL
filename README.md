@@ -6,7 +6,7 @@ The orders file provides additional context for each order, specifying the `orde
 The  pizza types file offers insight into the characteristics of each pizza, listing the `pizza_type`, its `name`, `category` (such as vegetarian or non-vegetarian), and `ingredients` used. 
 Finally, the pizzas  file links the `pizza_id` to a specific `pizza_type`, `size`, and `price`, enabling analysis of different pizza offerings and their sales performance by size and price. Together, these files provide a comprehensive view of pizza sales, from individual order details to pizza descriptions and pricing.
 
-## Answers:
+## Solutions
 ## -- Retrieve the total number of orders placed.
 
 SELECT 
